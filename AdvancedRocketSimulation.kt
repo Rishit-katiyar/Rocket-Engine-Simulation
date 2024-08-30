@@ -1,19 +1,3 @@
-
-s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import kotlin.math.*
 
 // Constants
