@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Rocket Engine Simulation 🚀💻
 
 ## Overview
