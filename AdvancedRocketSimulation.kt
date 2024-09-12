@@ -1,4 +1,3 @@
-
 import kotlin.math.*
 
 // Constants
